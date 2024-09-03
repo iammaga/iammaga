@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=iammaga&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iammaga&icon=5&color=0)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/) 
+![](https://visitcount.itsvg.in/api?id=iammaga&label=Profile%20views&pretty=true) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/) 
 
 <!-- ## 🌐 Socials: -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/)  -->
