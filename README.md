@@ -1,5 +1,5 @@
 ## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About Me:
-🔭 I’m currently working on the Navbat project<br>👯 I’m looking to collaborate on Google<br>🤝 I’m looking for help with Chat API<br>🌱 I’m currently learning Laravel<br>💬 Ask me about
+📌 I’m currently working on the Navbat project<br>🤞 I’m looking to collaborate on Google<br>🤝 I’m a backend developer using Laravel<br>👩‍💻 I’m currently learning Laravel<br>💬 Ask me about
 
 ## 💻 Tech Stack:
 
@@ -13,5 +13,3 @@
 
 <!-- ## 🌐 Socials: -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/)  -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
