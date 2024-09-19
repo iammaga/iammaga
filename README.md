@@ -4,8 +4,8 @@
 ## 💻 Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma) <br>
-![My Skills](https://skillicons.dev/icons?i=js,jquery,react,vue,php,laravel,mysql) <br>
-![My Skills](https://skillicons.dev/icons?i=powershell,git,github,postman,docker,markdown,ubuntu,gulp)
+![My Skills](https://skillicons.dev/icons?i=js,vue,php,laravel,mysql) <br>
+![My Skills](https://skillicons.dev/icons?i=github,postman,docker,ubuntu,gulp)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iammaga&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
