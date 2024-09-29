@@ -1,14 +1,50 @@
 ## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About Me:
+
 📌 I’m currently working on the Navbat project<br>🤞 I’m looking to collaborate on Google<br>🤝 I’m a backend developer using Laravel<br>👩‍💻 I’m currently learning Laravel<br>💬 Ask me about
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma) <br>
-![My Skills](https://skillicons.dev/icons?i=js,vue,php,laravel,mysql) <br>
-![My Skills](https://skillicons.dev/icons?i=github,postman,docker,ubuntu,gulp)
+<div class="icons-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=gulp" alt="Gulp Icon" class="icon" style="width: 50px; height: 50px;"/>
+</div>
+
+<style>
+  .icons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  @media (max-width: 300px) {
+    .icons-container {
+      justify-content: space-between;
+    }
+    
+    .icon {
+      flex: 1 1 40%;
+      max-width: 20%;
+    }
+  }
+</style>
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iammaga&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ---
-![](https://visitcount.itsvg.in/api?id=iammaga&label=Profile%20views&pretty=true) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/) 
+
+![](https://visitcount.itsvg.in/api?id=iammaga&label=Profile%20views&pretty=true) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/magajr_/)
