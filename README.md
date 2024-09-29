@@ -22,26 +22,6 @@
   <img src="https://skillicons.dev/icons?i=gulp" alt="Gulp Icon" class="icon" style="width: 50px; height: 50px;"/>
 </div>
 
-<style>
-  .icons-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 10px;
-  }
-
-  @media (max-width: 300px) {
-    .icons-container {
-      justify-content: space-between;
-    }
-    
-    .icon {
-      flex: 1 1 40%;
-      max-width: 20%;
-    }
-  }
-</style>
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iammaga&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
