@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const birthDate = new Date("2002-11-08");
+const birthDate = new Date("2001-11-08");
 const startYear = 2022;
 
 const today = new Date();
