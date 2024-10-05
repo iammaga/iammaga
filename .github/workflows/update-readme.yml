@@ -32,4 +32,4 @@ jobs:
           git config --global user.email 'action@github.com'
           git add README.md
           git commit -m "Update dynamic values in README" || echo "No changes to commit"  # Пропускаем, если нет изменений
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/iammaga/iammaga.git
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/iammaga/iammaga.git" HEAD:main
