@@ -1,0 +1,9 @@
+{
+  "name": "update-readme",
+  "version": "1.0.0",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "dependencies": {}
+}
