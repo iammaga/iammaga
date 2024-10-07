@@ -1,9 +1,9 @@
 ## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About Me:
 
-📌 I’m Working on the Navbat online booking system<br>
+📌 I’m Working on the **Navbat** online booking system<br>
 🤞 I’m looking to collaborate on Google<br>
 🤝 I’m a backend developer using Laravel<br>
-👩‍💻 My name is Muhammad, I'm **{{age}}** years old and have **{{experience}}**+ years of software development experience.
+💬 My name is Muhammad, I'm **{{age}}** years old and have **{{experience}}**+ years of software development experience.
 
 ## 💻 Tech Stack:
 
