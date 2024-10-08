@@ -1,13 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<br>
-
-<div class="icons-container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="HTML Icon" class="icon" style="width: 50px; height: 50px;"/>
-  <img src="https://skillicons.dev/icons?i=instagram" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
-  <img src="https://skillicons.dev/icons?i=gmail" alt="HTMX Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <div class="icons-container" style="text-align: center; margin-top: 16px">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="HTML Icon" class="icon" style="width: 50px; height: 50px;"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="HTMX Icon" class="icon" style="width: 50px; height: 50px;"/>
+  </div>
 </div>
 
 ---
