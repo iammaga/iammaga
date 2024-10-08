@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <div class="icons-container" style="text-align: center; margin-top: 16px">
+  <div class="icons-container" style="text-align: center; margin-top: 24px">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="HTML Icon" class="icon" style="width: 50px; height: 50px;"/>
     <img src="https://skillicons.dev/icons?i=instagram" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
     <img src="https://skillicons.dev/icons?i=gmail" alt="HTMX Icon" class="icon" style="width: 50px; height: 50px;"/>
