@@ -28,12 +28,11 @@
 
 ---
 
-## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> About Me:
+## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/> About Me:
 
-📌 I’m Working on the **Navbat** online booking system<br>
-🤞 I’m looking to collaborate on Google<br>
+👩‍💻 My name is Muhammad, I'm **23** years old and have **2**+ years of software development experience.<br>
 🤝 I’m a backend developer using Laravel<br>
-👩‍💻 My name is Muhammad, I'm **23** years old and have **2**+ years of software development experience.
+🤞 I’m looking to collaborate on Google<br>
 
 ## 💻 Tech Stack:
 
