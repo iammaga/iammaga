@@ -45,9 +45,11 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=alpinejs" alt="Alpinejs Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL Icon" class="icon" style="width: 50px; height: 50px;"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSql Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=gitlab" alt="Gitlab Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" class="icon" style="width: 50px; height: 50px;"/>
