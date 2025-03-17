@@ -1,18 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%;"/>
 
   <div class="icons-container" style="text-align: center; margin-top: 24px">
     <a href="https://www.linkedin.com/in/muxammad-zikirzoda-303044310/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="HTML Icon" class="icon" style="width: 50px; height: 50px;"/>
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Icon" class="icon" style="width: 50px; height: 50px; border-radius: 12px;"/>
     </a>
     <a href="https://www.instagram.com/magajr_/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Icon" class="icon" style="width: 50px; height: 50px; border-radius: 12px;"/>
     </a>
     <a href="https://t.me/Magaa11111">
-    <img src="telegram_logo.png" alt="Telegram Icon" style="width: 50px; height: 50px; border-radius: 12px;"/>
+      <img src="Дизайн без названия (1).png" alt="Telegram Icon" class="icon" style="width: 50px; height: 50px; border-radius: 12px;"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/muxammad.zikirzoda@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="HTMX Icon" class="icon" style="width: 50px; height: 50px;"/>
+    <a href="mailto:muxammad.zikirzoda@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" class="icon" style="width: 50px; height: 50px; border-radius: 12px;"/>
     </a>
   </div>
 </div>
