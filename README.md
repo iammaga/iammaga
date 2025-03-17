@@ -17,18 +17,6 @@
   </div>
 </div>
 
-<!-- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/muxammad-zikirzoda-303044310/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/magajr_/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/muxammad.zikirzoda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div> -->
-
 ---
 
 ## <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/> About Me:
@@ -63,10 +51,3 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu Icon" class="icon" style="width: 50px; height: 50px;"/>
   <img src="https://skillicons.dev/icons?i=gulp" alt="Gulp Icon" class="icon" style="width: 50px; height: 50px;"/>
 </div>
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iammaga&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-<br>
-
-![](https://visitcount.itsvg.in/api?id=iammaga&label=Profile%20views&pretty=true)
