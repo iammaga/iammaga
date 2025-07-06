@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const birthDate = new Date("2001-11-08");
-const startYear = 2022;
+const startYear = 2020;
 
 const today = new Date();
 let age = today.getFullYear() - birthDate.getFullYear();
