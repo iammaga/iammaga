@@ -8,7 +8,7 @@
     <a href="https://www.instagram.com/magajr_/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="CSS Icon" class="icon" style="width: 50px; height: 50px;"/>
     </a>
-    <a href="https://t.me/Magaa11111">
+    <a href="https://t.me/Alg0rix">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Icon" style="width: 50px; height: 50px;"/>
     </a>
     <a href="https://mail.google.com/mail/u/0/muxammad.zikirzoda@gmail.com">
